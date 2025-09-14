@@ -139,17 +139,9 @@ Please check `CONTRIBUTING.md` for detailed guidelines.
 </p>
 
 ---
-
-## ⚖️ License
-
-This project is licensed under the **MIT License** – free to use and contribute.
-
----
-
 ## 📬 Contact
 
-Maintainer: `<your-name>`
-📧 Email: `<your-email>`
+Maintainer: `<Vaibhav Soni>`
 🔗 GitHub: [Your Profile](https://github.com/your-username)
 
 ---
